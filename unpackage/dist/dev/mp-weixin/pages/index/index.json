@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "component": "/components/ksp-image-cutter/ksp-image-cutter"
+  }
+}
